@@ -5,7 +5,7 @@ Este proyecto está con la versión Laravel 6.X, para el desarrollo de un sistem
 ## Nota
 
 No robarme el proyecto, robar es malo. 
-
+discontinuado*
 
 ## About Laravel
 
